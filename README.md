@@ -11,7 +11,7 @@ Members:
   
    Luke :
   
-   efferey:
+   Jefferey:
   
   
   
