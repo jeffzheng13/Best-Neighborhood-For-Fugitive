@@ -11,7 +11,7 @@ We are analyzing the different neighborhoods in Pittsburgh to determine which is
   
    Luke :
   
-   Jefferey:
+   Jeffrey: jez43@pitt.edu
   
   
  
