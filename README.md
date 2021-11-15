@@ -7,11 +7,11 @@ Team Name:
 Members:
 
 
-      Paul Ringenbach: pmr28@pitt.edu
+   Paul Ringenbach: pmr28@pitt.edu
   
-      Luke :
+   Luke :
   
-      Jefferey:
+   efferey:
   
   
   
