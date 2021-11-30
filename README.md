@@ -1,7 +1,7 @@
 # Best-Neighborhood-To-Hide-From-The-Law
 We are analyzing the different neighborhoods in Pittsburgh to determine which is best (for a fugitive to hide in).
 
-### Team Name: 
+### Team Name: Just Your Average Law Abiding Citizens
 
 
 #### Members:
