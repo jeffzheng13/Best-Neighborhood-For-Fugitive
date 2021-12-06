@@ -25,4 +25,5 @@ Our objective was to determine the best neighborhood in Pittsburgh for a fugitiv
    - For the speed humps, whichever neighborhood had the least would be best. 
    - For police presence, whichever neighborhood had a decreasing and maintained a low presence would be best.
    - For trees, whichever neighborhood had the largest width would be best.
+
 Then the top 3 neighborhoods were ranked and assigned a number, the neighborhood with the lowest sum across all three datasets was declared the best neighborhood.
